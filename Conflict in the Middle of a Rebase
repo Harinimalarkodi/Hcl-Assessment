@@ -1,0 +1,10 @@
+Final content of pricing.c:
+#define DISCOUNT_RATE 15
+
+
+git add pricing.c
+git rebase --continue
+
+
+To cancel the rebase:
+git rebase --abort
