@@ -1,0 +1,5 @@
+git switch -c feature/invoice
+git add invoice.c
+git commit -m "Add invoice generation"
+git fetch origin
+git merge origin/main
